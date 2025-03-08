@@ -8,7 +8,7 @@ A secure API for managing IMF's high-tech gadgets, built with Node.js, Express, 
 - 🔐 Secure authentication with JWT  
 
 # Deployed Link
-
+https://imf-gadget-api-2wzc.onrender.com
 
 ## API Documentation  
 📄 [Postman Docs](https://documenter.getpostman.com/view/27663098/2sAYdoEnAj#37fa2cd0-a905-4744-971f-e67a95989da8)
